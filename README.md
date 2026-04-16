@@ -6,7 +6,13 @@ Este repositório foi criado como parte da **Atividade Prática: Nossa Primeira 
 O projeto reúne **30 comandos fundamentais**, amplamente utilizados no dia a dia de usuários e profissionais que trabalham com sistemas Linux, especialmente em ambientes acadêmicos e laboratorias. 
 
 ---
+### 📂 Comandos essenciais do Linux
+---
 
-## 📂 Comandos Essenciais do Linux
+## 1. pwd
+Mostra o caminho completo do diretório atual.
+
+## 2. ls
+Lista todos os arquivos do diretório
 
 
