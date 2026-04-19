@@ -176,3 +176,157 @@ Bash
 
 chown usuario arquivo.txt
 ```
+## 16. chmod
+Alterar permissões.
+
+*Uso prático:* Tornar scripts executáveis.
+
+**Exemplo:**
+```
+bash
+
+chmod +x script.sh
+```
+## 17. top
+Monitorar processos em tempo real.
+
+*Uso prático:* Ver programas que estão consumindo muita memória.
+
+**Exemplo:**
+```
+bash
+
+top
+```
+## 18. ps
+Listar processos ativos.
+
+*Uso prático:* Identificar processos em execução.
+
+**Exemplo:**
+```
+bash
+
+ps aux
+```
+## 19. kill
+Encerrar processos.
+
+*Uso prático:* Finalizar programas travados.
+
+**Exemplo:**
+```
+bash
+
+kill 1234
+```
+## 20. ping
+Testar conexão de rede.
+
+*Uso prático:* Verificar se um site está acessível.
+
+*Exemplo:*
+```
+bash
+
+ping google.com
+```
+## 21. wget
+Baixar arquivos da internet.
+
+*Uso prático:* Baixar arquivos direto do terminal.
+
+*Exemplo:*
+```
+bash
+
+wget https://exemplo.com/arquivo.zip
+```
+## 22. curl
+Fazer requisições HTTP.
+
+*Uso prático:* Testar APIs.
+
+*Exemplo:*
+```
+bash
+
+curl https://api.exemplo.com
+```
+## 23. df
+Ver uso de disco.
+
+*Uso prático:* Checar espaço disponível no sistema.
+
+*Exemplo:*
+```
+bash
+
+df -h
+```
+## 24. du
+Ver tamanho de arquivos/pastas.
+
+*Uso prático:* Descobrir o que está ocupando espaço.
+
+*Exemplo:*
+```
+bash
+
+du -h
+```
+## 25. clear
+Limpar o terminal.
+
+*Uso prático:* Organizar a visualização dos comandos.
+
+*Exemplo:*
+```
+bash
+
+clear
+```
+##26. history
+Executar como administrador.
+
+*Uso prático:* Instalar programas ou alterar sistema.
+
+*Exemplo:*
+```
+bash
+
+sudo apt update
+```
+##28. apt
+Gerenciar pacotes.
+
+*Uso prático:* Instalar programas.
+
+*Exemplo:*
+```
+bash
+
+sudo apt install git
+```
+## 29. uname
+Informações do sistema.
+
+*Uso prático:* Ver versão do sistema operacional.
+
+*Exemplo:*
+```
+bash
+
+uname -a
+```
+## 30. date
+Mostrar data e hora.
+
+*Uso prático:* Verificar horário do sistema.
+
+*Exemplo:*
+```
+bash
+
+date
+```
