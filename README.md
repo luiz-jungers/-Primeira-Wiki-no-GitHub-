@@ -179,7 +179,7 @@ chown usuario arquivo.txt
 ## 16. chmod
 Alterar permissões.
 
-*Uso prático:* Tornar scripts executáveis.
+**Uso prático:** Tornar scripts executáveis.
 
 **Exemplo:**
 ```
@@ -190,7 +190,7 @@ chmod +x script.sh
 ## 17. top
 Monitorar processos em tempo real.
 
-*Uso prático:* Ver programas que estão consumindo muita memória.
+**Uso prático:** Ver programas que estão consumindo muita memória.
 
 **Exemplo:**
 ```
@@ -201,7 +201,7 @@ top
 ## 18. ps
 Listar processos ativos.
 
-*Uso prático:* Identificar processos em execução.
+**Uso prático:** Identificar processos em execução.
 
 **Exemplo:**
 ```
@@ -212,7 +212,7 @@ ps aux
 ## 19. kill
 Encerrar processos.
 
-*Uso prático:* Finalizar programas travados.
+**Uso prático:** Finalizar programas travados.
 
 **Exemplo:**
 ```
@@ -223,7 +223,7 @@ kill 1234
 ## 20. ping
 Testar conexão de rede.
 
-*Uso prático:* Verificar se um site está acessível.
+**Uso prático:** Verificar se um site está acessível.
 
 *Exemplo:*
 ```
@@ -234,7 +234,7 @@ ping google.com
 ## 21. wget
 Baixar arquivos da internet.
 
-*Uso prático:* Baixar arquivos direto do terminal.
+**Uso prático:** Baixar arquivos direto do terminal.
 
 *Exemplo:*
 ```
@@ -245,7 +245,7 @@ wget https://exemplo.com/arquivo.zip
 ## 22. curl
 Fazer requisições HTTP.
 
-*Uso prático:* Testar APIs.
+**Uso prático:** Testar APIs.
 
 *Exemplo:*
 ```
@@ -256,7 +256,7 @@ curl https://api.exemplo.com
 ## 23. df
 Ver uso de disco.
 
-*Uso prático:* Checar espaço disponível no sistema.
+**Uso prático:** Checar espaço disponível no sistema.
 
 *Exemplo:*
 ```
@@ -267,7 +267,7 @@ df -h
 ## 24. du
 Ver tamanho de arquivos/pastas.
 
-*Uso prático:* Descobrir o que está ocupando espaço.
+**Uso prático:** Descobrir o que está ocupando espaço.
 
 *Exemplo:*
 ```
@@ -278,7 +278,7 @@ du -h
 ## 25. clear
 Limpar o terminal.
 
-*Uso prático:* Organizar a visualização dos comandos.
+**Uso prático:** Organizar a visualização dos comandos.
 
 *Exemplo:*
 ```
@@ -300,7 +300,7 @@ sudo apt update
 ##28. apt
 Gerenciar pacotes.
 
-*Uso prático:* Instalar programas.
+**Uso prático:** Instalar programas.
 
 *Exemplo:*
 ```
@@ -311,7 +311,7 @@ sudo apt install git
 ## 29. uname
 Informações do sistema.
 
-*Uso prático:* Ver versão do sistema operacional.
+**Uso prático:** Ver versão do sistema operacional.
 
 *Exemplo:*
 ```
@@ -322,7 +322,7 @@ uname -a
 ## 30. date
 Mostrar data e hora.
 
-*Uso prático:* Verificar horário do sistema.
+**Uso prático:** Verificar horário do sistema.
 
 *Exemplo:*
 ```
