@@ -1,4 +1,8 @@
 # 📘 Nossa Primeira Wiki no Github
+## 👥 Participantes
+**Vitor Yuji Gunji (11261100679)**
+
+**Luiz Arthur Da Silva Jungers Franco (11261100606)**
 ## 📚 Dicionário de Comandos Essenciais do Linux
 
 Este repositório foi criado como parte da **Atividade Prática: Nossa Primeira Wiki no GitHub**, com o objetivo de construir uma Wiki colaborativa utilizando **Markdown** para documentar comandos essenciais do **Linux**.
