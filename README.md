@@ -179,7 +179,7 @@ chown usuario arquivo.txt
 ## 16. chmod
 Alterar permissões.
 
-**Uso prático:** Tornar scripts executáveis.
+**Uso Prático:** Tornar scripts executáveis.
 
 **Exemplo:**
 ```
@@ -190,7 +190,7 @@ chmod +x script.sh
 ## 17. top
 Monitorar processos em tempo real.
 
-**Uso prático:** Ver programas que estão consumindo muita memória.
+**Uso Prático:** Ver programas que estão consumindo muita memória.
 
 **Exemplo:**
 ```
@@ -201,7 +201,7 @@ top
 ## 18. ps
 Listar processos ativos.
 
-**Uso prático:** Identificar processos em execução.
+**Uso Prático:** Identificar processos em execução.
 
 **Exemplo:**
 ```
@@ -212,7 +212,7 @@ ps aux
 ## 19. kill
 Encerrar processos.
 
-**Uso prático:** Finalizar programas travados.
+**Uso Prático:** Finalizar programas travados.
 
 **Exemplo:**
 ```
@@ -223,9 +223,9 @@ kill 1234
 ## 20. ping
 Testar conexão de rede.
 
-**Uso prático:** Verificar se um site está acessível.
+**Uso Prático:** Verificar se um site está acessível.
 
-*Exemplo:*
+**Exemplo:**
 ```
 bash
 
@@ -234,9 +234,9 @@ ping google.com
 ## 21. wget
 Baixar arquivos da internet.
 
-**Uso prático:** Baixar arquivos direto do terminal.
+**Uso Prático:** Baixar arquivos direto do terminal.
 
-*Exemplo:*
+**Exemplo:**
 ```
 bash
 
@@ -245,9 +245,9 @@ wget https://exemplo.com/arquivo.zip
 ## 22. curl
 Fazer requisições HTTP.
 
-**Uso prático:** Testar APIs.
+**Uso Prático:** Testar APIs.
 
-*Exemplo:*
+**Exemplo:**
 ```
 bash
 
@@ -256,9 +256,9 @@ curl https://api.exemplo.com
 ## 23. df
 Ver uso de disco.
 
-**Uso prático:** Checar espaço disponível no sistema.
+**Uso Prático:** Checar espaço disponível no sistema.
 
-*Exemplo:*
+**Exemplo:**
 ```
 bash
 
@@ -267,9 +267,9 @@ df -h
 ## 24. du
 Ver tamanho de arquivos/pastas.
 
-**Uso prático:** Descobrir o que está ocupando espaço.
+**Uso Prático:** Descobrir o que está ocupando espaço.
 
-*Exemplo:*
+**Exemplo:**
 ```
 bash
 
@@ -278,31 +278,31 @@ du -h
 ## 25. clear
 Limpar o terminal.
 
-**Uso prático:** Organizar a visualização dos comandos.
+**Uso Prático:** Organizar a visualização dos comandos.
 
-*Exemplo:*
+**Exemplo:**
 ```
 bash
 
 clear
 ```
-##26. history
+## 26. history
 Executar como administrador.
 
-*Uso prático:* Instalar programas ou alterar sistema.
+**Uso Prático:** Instalar programas ou alterar sistema.
 
-*Exemplo:*
+**Exemplo:**
 ```
 bash
 
 sudo apt update
 ```
-##28. apt
+## 28. apt
 Gerenciar pacotes.
 
-**Uso prático:** Instalar programas.
+**Uso Prático:** Instalar programas.
 
-*Exemplo:*
+**Exemplo:**
 ```
 bash
 
@@ -311,9 +311,9 @@ sudo apt install git
 ## 29. uname
 Informações do sistema.
 
-**Uso prático:** Ver versão do sistema operacional.
+**Uso Prático:** Ver versão do sistema operacional.
 
-*Exemplo:*
+**Exemplo:**
 ```
 bash
 
@@ -322,11 +322,18 @@ uname -a
 ## 30. date
 Mostrar data e hora.
 
-**Uso prático:** Verificar horário do sistema.
+**Uso Prático:** Verificar horário do sistema.
 
-*Exemplo:*
+**Exemplo:**
 ```
 bash
 
 date
 ```
+---
+# ✅ Conclusão
+Neste trabalho, foi possível aprender comandos básicos do Linux e entender como eles são usados no dia a dia, como organizar arquivos, navegar entre pastas e gerenciar o sistema.
+
+Esses conhecimentos são importantes para quem está começando na área de tecnologia, pois o uso do terminal é muito comum.
+
+Além disso, a criação do projeto no GitHub ajudou a praticar a organização de conteúdo e a documentação em Markdown.
